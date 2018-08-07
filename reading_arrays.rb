@@ -9,11 +9,12 @@ STUDENT_NAMES = [
 
 def first_student_by_index
   # Write a solution that returns the first student in the array student_names 
-  student_names.first 
+  STUDENT_NAMES.first 
 end
 
 def fourth_student_by_index
   # Write a solution that returns the first student in the array student_names[0]
+  
 end
 
 def last_student_by_index
